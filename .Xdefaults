@@ -1,7 +1,7 @@
 XTerm*background: #000000
 XTerm*Foreground: #FFFFFF
 
-XTerm*faceName: Roboto Mono
+XTerm*faceName: Roboto_Mono
 XTerm*faceSize: 10
 
 Sxiv.background: #000000
