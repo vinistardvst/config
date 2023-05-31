@@ -1,0 +1,8 @@
+XTerm*background: #000000
+XTerm*Foreground: #FFFFFF
+
+XTerm*faceName: Roboto Mono
+XTerm*faceSize: 10
+
+Sxiv.background: #000000
+Sxiv.foreground: #FFFFFF

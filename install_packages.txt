@@ -1,0 +1,1 @@
+pacman -S  bspwm sxhkd dunst libnotify xterm xorg xorg-xinit xf86-video-intel noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-roboto-mono sxiv mpv feh picom rofi zip unzip pavucontrol pulsemixer thunderbird chromium arandr ranger mousepad neofetch fcitx5 fcitx5-im fcitx5-hangul fcitx5-chinese-addons fcitx5-mozc git 
